@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,20 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Albus",
+      "dogBreed": "Staffy",
+      "id": 3
+    },
+    {
+      "dogName": "Lumos",
+      "dogBreed": "Lab mix",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +33,78 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "mikelanne",
+      "email": "mwood@credomobile.com",
+      "id": 1
+    },
+    {
+      "name": "frank",
+      "email": "frank@example.com",
+      "id": 2
+    },
+    {
+      "name": "albus",
+      "email": "sleepyfarts@pb.com",
+      "id": 3
+    },
+    {
+      "name": "bob",
+      "email": "bob@bob.com",
+      "id": 4
+    },
+    {
+      "name": "andrew",
+      "email": "andrewkarter@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "toodles",
+      "email": "toodles@wonderland.com",
+      "id": 6
+    },
+    {
+      "name": "asdlkjf",
+      "email": "asdlkjf",
+      "id": 7
+    },
+    {
+      "name": "Wanda",
+      "email": "wanda@vision.com",
+      "id": 8
+    },
+    {
+      "name": "vision",
+      "email": "vision@vision.com",
+      "id": 9
+    },
+    {
+      "name": "cinderella",
+      "email": "myshoe@oops.com",
+      "id": 10
+    },
+    {
+      "name": "stevie",
+      "email": "stevie@rosebudhotel.ca",
+      "id": 11
+    },
+    {
+      "name": "david",
+      "email": "david@roseapoth.ca",
+      "id": 12
+    },
+    {
+      "name": "imtired",
+      "email": "plswork@help.com",
+      "id": 13
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
